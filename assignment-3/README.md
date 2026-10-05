@@ -18,8 +18,9 @@ This project focuses on building responsive web applications using CSS Media Que
 #### Task 0. Responsive Typography
 Demonstrates dynamically scaling text sizes (small on mobile, medium on tablet, large on desktop) using CSS `@media` queries.
 
-<!-- PASTE YOUR TASK 0 SCREENSHOT BELOW -->
-![Task 0 - Responsive Typography](images/task0.png)
+<img width="699" height="215" alt="image" src="https://github.com/user-attachments/assets/1ac658b9-b7f7-4c4c-8e49-3cfea9a18830" />
+
+
 
 
 #### Task 1. Responsive Layout with Media Queries
@@ -28,8 +29,7 @@ Demonstrates a custom 3-card layout built with Flexbox and media queries without
 - **Tablet:** 2 cards per row
 - **Mobile:** Vertically stacked cards
 
-<!-- PASTE YOUR TASK 1 SCREENSHOT BELOW -->
-![Task 1 - Media Queries Layout](images/task1.png)
+<img width="720" height="362" alt="image" src="https://github.com/user-attachments/assets/73c34221-81c3-45a2-9d82-d7b502610af8" />
 
 ---
 
@@ -41,15 +41,13 @@ Implements Bootstrap's 12-column responsive grid (`col-12`, `col-md-6`, `col-lg-
 - **Tablet:** 2 columns on the first row, 1 column on the second row
 - **Mobile:** All columns stacked vertically
 
-<!-- PASTE YOUR TASK 2 SCREENSHOT BELOW -->
-![Task 2 - Bootstrap Columns](images/task2.png)
+<img width="720" height="362" alt="image" src="https://github.com/user-attachments/assets/32bfb169-b765-4d8b-afde-d1e5817864bb" />
 
 
 #### Task 3. Bootstrap Navigation Bar
 A fully responsive navigation bar featuring a brand logo, navigation links, and a collapsible hamburger menu for smaller screen sizes.
 
-<!-- PASTE YOUR TASK 3 SCREENSHOT BELOW -->
-![Task 3 - Responsive Navbar](images/task3.png)
+<img width="709" height="203" alt="image" src="https://github.com/user-attachments/assets/4d108666-2b7e-4539-9b6c-f97cc7dd9cdc" />
 
 ---
 
@@ -61,8 +59,8 @@ A complete responsive portfolio layout combining custom media queries and Bootst
 - **Main Content:** Left side contains portfolio project cards in a Bootstrap grid; Right side contains a personal profile and contact details sidebar
 - **Footer:** Full-width footer across the bottom
 
-<!-- PASTE YOUR TASK 4 SCREENSHOT BELOW -->
-![Task 4 - Portfolio Page](images/task4.png)
+<img width="689" height="546" alt="image" src="https://github.com/user-attachments/assets/ddc444d4-1d2a-4df8-a596-92d6f191682a" />
+
 
 ---
 
